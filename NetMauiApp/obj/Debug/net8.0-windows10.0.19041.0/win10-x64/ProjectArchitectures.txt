@@ -1,0 +1,1 @@
+C:\Users\vitor\Desktop\DOTNET MAUI\NetMauiApp\NetMauiApp.csproj;x64
