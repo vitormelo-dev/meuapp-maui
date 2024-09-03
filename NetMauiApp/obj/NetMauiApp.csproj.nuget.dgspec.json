@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\Desktop\\DOTNET MAUI\\NetMauiApp\\NetMauiApp.csproj": {}
+    "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\NetMauiApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\Desktop\\DOTNET MAUI\\NetMauiApp\\NetMauiApp.csproj": {
+    "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\NetMauiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\DOTNET MAUI\\NetMauiApp\\NetMauiApp.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\NetMauiApp.csproj",
         "projectName": "NetMauiApp",
-        "projectPath": "C:\\Users\\vitor\\Desktop\\DOTNET MAUI\\NetMauiApp\\NetMauiApp.csproj",
+        "projectPath": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\NetMauiApp.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\Desktop\\DOTNET MAUI\\NetMauiApp\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,1 +1,1 @@
-C:\Users\vitor\Desktop\DOTNET MAUI\NetMauiApp\NetMauiApp.csproj;x64
+C:\Users\vitor\Desktop\DOTNET_MAUI\NetMauiApp\NetMauiApp.csproj;x64

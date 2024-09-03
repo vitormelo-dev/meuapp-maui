@@ -8,7 +8,13 @@
     <DefaultDevice>pixel_5_-_api_33</DefaultDevice>
   </PropertyGroup>
   <ItemGroup>
+    <MauiXaml Update="FlyoutPageDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="MinhaPagina.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="TabbedPageDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

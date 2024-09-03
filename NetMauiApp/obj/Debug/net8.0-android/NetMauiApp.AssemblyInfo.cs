@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetMauiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d08bccf33135bdebed94388accfcebf268342a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetMauiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetMauiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
