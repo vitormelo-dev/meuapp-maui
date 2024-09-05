@@ -10,7 +10,7 @@
 
             //navPage.BarBackground = Colors.Red;
 
-            MainPage = new TabbedPageDemo();
+            MainPage = new NavigationPage(new GridLayoutDemo());
         }
     }
 }

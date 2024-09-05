@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|c:\\users\\vitor\\desktop\\dotnet_maui\\netmauiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|c:\\users\\vitor\\desktop\\dotnet_maui\\netmauiapp\\gridlayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|solutionrelative:gridlayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|c:\\users\\vitor\\desktop\\dotnet_maui\\netmauiapp\\tabbedpagedemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|solutionrelative:tabbedpagedemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|c:\\users\\vitor\\desktop\\dotnet_maui\\netmauiapp\\tabbedpagedemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|solutionrelative:tabbedpagedemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|c:\\users\\vitor\\desktop\\dotnet_maui\\netmauiapp\\stacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30D943A8-B50A-4DCD-AF28-C2B5C26D84D2}|NetMauiApp.csproj|solutionrelative:stacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:30:30.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TabbedPageDemo.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\TabbedPageDemo.xaml.cs",
-              "RelativeDocumentMoniker": "TabbedPageDemo.xaml.cs",
-              "ToolTip": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\TabbedPageDemo.xaml.cs",
-              "RelativeToolTip": "TabbedPageDemo.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:29:58.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TabbedPageDemo.xaml",
-              "DocumentMoniker": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\TabbedPageDemo.xaml",
-              "RelativeDocumentMoniker": "TabbedPageDemo.xaml",
-              "ToolTip": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\TabbedPageDemo.xaml",
-              "RelativeToolTip": "TabbedPageDemo.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Title": "StackLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\StackLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "StackLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\StackLayoutDemo.xaml",
+              "RelativeToolTip": "StackLayoutDemo.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-03T14:29:48.459Z",
+              "WhenOpened": "2024-09-05T15:07:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\GridLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "GridLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\vitor\\Desktop\\DOTNET_MAUI\\NetMauiApp\\GridLayoutDemo.xaml",
+              "RelativeToolTip": "GridLayoutDemo.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T13:18:19.379Z",
               "EditorCaption": ""
             }
           ]

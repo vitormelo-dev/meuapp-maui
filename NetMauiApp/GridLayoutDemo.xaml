@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NetMauiApp.GridLayoutDemo"
+             Title="GridLayoutDemo">
+    <Grid ColumnSpacing="10" RowDefinitions="2*, *, 100" ColumnDefinitions="*, 2*, 100" RowSpacing="20" Padding="20">
+        <Label Text="Linha 1" BackgroundColor="Grey" Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" />
+        <Label Text="Linha 2" BackgroundColor="Yellow" Grid.Column="1" Grid.Row="0" />
+        <Label Text="Linha 3" BackgroundColor="Green" Grid.Column="2" Grid.Row="0" />
+
+        <!--<Label Text="Linha 4" BackgroundColor="White" Grid.Column="0" Grid.Row="1" />-->
+        <Label Text="Linha 5" BackgroundColor="Aqua" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" />
+        <!--<Label Text="Linha 6" BackgroundColor="Blue" Grid.Column="2" Grid.Row="1" />-->
+
+        <Label Text="Linha 7" BackgroundColor="White" Grid.Column="0" Grid.Row="2" />
+        <Label Text="Linha 8" BackgroundColor="Aqua" Grid.Column="1" Grid.Row="2" />
+        <Label Text="Linha 9" BackgroundColor="Blue" Grid.Column="2" Grid.Row="2" />
+    </Grid>
+</ContentPage>
